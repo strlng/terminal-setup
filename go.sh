@@ -14,7 +14,7 @@ elif [ `uname` == Linux ]; then
 	sudo make install
 fi
 
-base16-manager install chriskempson/base16
+base16-manager install chriskempson/base16-vim
 base16-manager install chriskempson/base16-shell
 
-base16-manager set tomorrow-dark
+base16-manager set tomorrow-night

@@ -2,7 +2,7 @@ if (has("termguicolors"))
    set termguicolors
 endif
 
-colorscheme base16-default-dark
+colorscheme base16-tomorrow-night
 
 " Make Vim more useful
 set nocompatible
